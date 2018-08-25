@@ -7,5 +7,5 @@ function takeANumber(katzDeliLine, name) {
 
 function nowServing (katzDeliLine) {
   var next = katzDeliLine.shift();
-  return next ? 
+  return next ? `Currently serving number ${katzDeliLine.length};
 }
