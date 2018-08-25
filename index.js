@@ -17,6 +17,7 @@ function currentLine(katzDeliLine) {
   else {
     var lineCount = "The line is currently: ";
     for (var i = 0; i < katzDeliLine.length; i++); {
+      debugger
     lineCount+= `${i+1}. $katzDeli[i]},
   }
     var finalStatement = (lineCount.slice(0, -2); 
