@@ -19,7 +19,7 @@ function currentLine(katzDeliLine) {
     for (var i = 0; i < katzDeliLine.length; i++);
     sentence+= `${i+1}. $katzDeli[i]},
   }
-    var finalStatement  
+    var finalStatement = (lineCount  
   }
   }
 }
