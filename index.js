@@ -18,6 +18,7 @@ function currentLine(katzDeliLine) {
     var lineCount = "The line is currently: ";
     for (var i = 0; i < katzDeliLine.length; i++);
     sentence+= `${i+1}. $katzDeli[i]},
+  }
     
   }
   }
