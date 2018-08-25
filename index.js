@@ -20,4 +20,6 @@ function currentLine(katzDeliLine) {
     lineCount+= `${i+1}. $katzDeli[i]},
   }
     var finalStatement = (lineCount.slice(0, -2); 
+    return finalStatement;
+    }
     }
