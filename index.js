@@ -6,5 +6,5 @@ function takeANumber(katzDeliLine, name) {
 }
 
 function nowServing(katzDeliLine) {
-  var next
+  var next;
 }
