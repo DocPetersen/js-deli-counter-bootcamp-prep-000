@@ -19,8 +19,7 @@ function currentLine(katzDeliLine) {
     for (var i = 0; i < katzDeliLine.length; i++); 
     lineCount+=`${i+1}. ${katzDeliLine[i]},`
   }
-    var finalStatement = (lineCount.slice(0, -2); 
+    var finalStatement = lineCount.slice(0, -2); 
     return finalStatement;
-    }
     }
   }
