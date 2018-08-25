@@ -20,7 +20,8 @@ function currentLine(katzDeliLine) {
     sentence+= `${i+1}. $katzDeli[i]},
   }
     var finalStatement = (lineCount.slice(0, -2); 
-  }
-  }
-}
-}
+    }
+    }
+    }
+    }
+    
