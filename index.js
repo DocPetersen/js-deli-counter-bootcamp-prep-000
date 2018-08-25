@@ -21,7 +21,3 @@ function currentLine(katzDeliLine) {
   }
     var finalStatement = (lineCount.slice(0, -2); 
     }
-    }
-    }
-    }
-    
